@@ -1,0 +1,145 @@
+
+[MainForm]
+	Bottom = '747'
+	Flags = '0'
+	Left = '0'
+	MaxX = '-1'
+	MaxY = '-1'
+	MinX = '-1'
+	MinY = '-1'
+	Right = '1276'
+	ShowCmd = '1'
+	Top = '0'
+	{B337789B-7DED-45c6-92FD-79F2EE3497A9} = '2147483646'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35280}]
+	State = '61938'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35280}\Docked]
+	Break = '272'
+	CX = '551'
+	Index = '1'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35281}]
+	State = '61688'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35281}\Docked]
+	Break = '0'
+	CX = '220'
+	Index = '1'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35282}]
+	State = '61682'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35282}\Docked]
+	Break = '0'
+	CX = '543'
+	Index = '3'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35283}]
+	State = '61688'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35283}\Docked]
+	Break = '0'
+	CX = '854'
+	Index = '0'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35284}]
+	State = '61682'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35284}\Docked]
+	Break = '0'
+	CX = '1118'
+	Index = '2'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35285}]
+	State = '61688'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35285}\Docked]
+	Break = '0'
+	CX = '462'
+	Index = '2'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35286}]
+	State = '61688'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-92E9-D7E3E35286}\Docked]
+	Break = '0'
+	CX = '818'
+	Index = '3'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-9EE3-D7E3E3560160}]
+	State = '61938'
+
+[MainForm\Docking\{333BEEDF-FAAD-CCCC-9EE3-D7E3E3560160}\Docked]
+	Break = '0'
+	CX = '132'
+	Index = '0'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{21D56B5D-60E5-4b99-B639-114C59A2D7DB}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{257F761C-6476-46c9-8737-DBBF0501B2AB}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709486079'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{30B382FC-361C-4631-BC2E-8896810EC422}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{395A65B9-61E8-40ee-BF58-677126B01C5B}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{9C089111-B19B-4da9-9D3D-DA7B85CA2403}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{9C089111-B19B-4da9-9D3D-DA7B85CA2403}\CmdLineBox]
+	ItemCount = '0'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{D96EF4DF-4EAC-49b1-ACCD-66815963B11C}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{80C4A7D6-62C3-4A1A-B5D6-FF0363E2E3C8}\{F7B242E0-9F7B-42a9-B2D0-5D29263BBC6A}]
+	{948639EB-274B-48a6-8A59-A75763FB22D5} = '50'
+	{C9181C26-42CD-4ac6-9C24-AD07C4BFC0B2} = '18446744073709551615'
+
+[MainForm\Docking\{D27600E9-9451-4523-B914-1C5C447D376E}]
+	{2BDB3940-D488-41e9-8CED-874ACE546704} = '1810169855'
+
+[MainForm\Docking\{D27600E9-9451-4523-B914-1C5C447D376E}\128]
+	{DC23E970-00DF-43a3-A961-B52CD3F9471A} = '0'
+
+[MainForm\Docking\{D27600E9-9451-4523-B914-1C5C447D376E}\128\{5E60BC8C-4B31-4bca-A4EE-533AD61B5D2F}]
+	Locate = '0'
+	{18C792FB-62F8-441e-93FA-122CD5B40E24} = '0'
+	{20E2D982-0F0E-48d4-A765-F9A61276A3B1} = '0'
+	{681F9DA6-41BA-48b8-AA82-973C09273A5C} = '140'
+	{6C667431-C06E-436b-A825-06B6F6F29109} = '61'
+	{90512E4C-3EF5-4380-BEA0-D87F8F0ED059} = '1000'
+	{A6F434EA-3FD9-4af1-81F3-BFB86C57B50C} = '2'
+	{B2FBF923-12D0-44f1-AB8E-E0B87B3CCC80} = '735'
+
+[MainForm\TabControl]
+	Placement = '0'
+
+[WSP List]
+	Count = '15'
+	Item_0 = 'C:\Users\Administrator\Documents\MNQ XMR-BB.wsp'
+	Item_1 = 'C:\Users\Administrator\Documents\MES Swing BO.wsp'
+	Item_10 = 'C:\Users\Administrator\Documents\GC Swing 2.wsp'
+	Item_11 = 'C:\Users\Administrator\Documents\MNQ Swing 4h.wsp'
+	Item_12 = 'C:\Users\Administrator\Documents\NQ XDVOL-1.wsp'
+	Item_13 = 'C:\Users\Administrator\Documents\MNQ XMR-BB-3.wsp'
+	Item_14 = 'C:\Users\Administrator\Documents\TY Driftin.wsp'
+	Item_2 = 'C:\Users\Administrator\Documents\6E Driftin.wsp'
+	Item_3 = 'C:\Users\Administrator\Documents\FV Driftin.wsp'
+	Item_4 = 'C:\Users\Administrator\Documents\10Y Driftin.wsp'
+	Item_5 = 'C:\Users\Administrator\Documents\CL Prime.wsp'
+	Item_6 = 'C:\Users\Administrator\Documents\ES BigRange.wsp'
+	Item_7 = 'C:\Users\Administrator\Documents\HO Swing.wsp'
+	Item_8 = 'C:\Users\Administrator\Documents\PL Swing.wsp'
+	Item_9 = 'C:\Users\Administrator\Documents\GC Prime.wsp'
